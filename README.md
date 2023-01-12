@@ -5,7 +5,7 @@
 ## Description
 
 * This program uses Spacy
-* It reads in movie descriptions from a text file
+* It reads in movie descriptions from the text file "movies.txt"
 * It finds the similarity of these descriptions to the description for Planet Hulk
 * It recommends the most similar movie for the user to watch next
 
